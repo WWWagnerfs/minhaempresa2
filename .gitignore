@@ -1,0 +1,7 @@
+venv
+.idea
+~.temp
+*.pyc
+__pycache__
+.DS_store
+*.*~
